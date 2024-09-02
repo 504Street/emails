@@ -77,6 +77,8 @@ wkHz,Z6j
 investing
 savings
 unemployed
+$2,000 - $19,000
+All Other Industries & Services
 
 
 
